@@ -11,5 +11,21 @@
 
     <artifactId>gk-rpc-server</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.smgeek</groupId>
+            <artifactId>gk-rpc-proto</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.smgeek</groupId>
+            <artifactId>gk-rpc-transport</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.smgeek</groupId>
+            <artifactId>gk-rpc-codec</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>
