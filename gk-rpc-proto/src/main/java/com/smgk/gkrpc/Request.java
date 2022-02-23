@@ -14,7 +14,7 @@ public class Request {
     /*
         要调用的服务
      */
-    private ServiceDescriptor server;
+    private ServiceDescriptor service;
 
     /*
         要传的参数
