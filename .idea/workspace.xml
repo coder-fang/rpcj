@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d3c2bd-bb11-4ce0-9774-dbf728cedaff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gk-rpc-client/src/main/java/smgk/gkrpc/client/RandomTransportSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-client/src/main/java/smgk/gkrpc/client/RemoteInvoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-client/src/main/java/smgk/gkrpc/client/RpcClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-client/src/main/java/smgk/gkrpc/client/RpcClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-client/src/main/java/smgk/gkrpc/client/TransportSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-example/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-example/src/main/java/com/smgk/gkrpc/example/CalcService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-example/src/main/java/com/smgk/gkrpc/example/CalcServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-example/src/main/java/com/smgk/gkrpc/example/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-example/src/main/java/com/smgk/gkrpc/example/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-example/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-server/src/main/java/com/smgk/gkrpc/server/RpcServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-server/src/main/java/com/smgk/gkrpc/server/ServiceInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-server/src/main/java/com/smgk/gkrpc/server/ServiceInvoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-server/src/main/java/com/smgk/gkrpc/server/ServiceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-server/src/test/java/com/smgk/gkrpc/server/ServiceManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-server/src/test/java/com/smgk/gkrpc/server/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gk-rpc-server/src/test/java/com/smgk/gkrpc/server/TestInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gk-rpc-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gk-rpc-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgk/gkrpc/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgk/gkrpc/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgk/gkrpc/ServiceDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgk/gkrpc/ServiceDescriptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gk-rpc-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gk-rpc-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gk-rpc-server/src/main/java/com/smgk/gkrpc/server/RpcServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gk-rpc-server/src/main/java/com/smgk/gkrpc/server/RpcServerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gk-rpc-example/src/main/java/com/smgk/gkrpc/example/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/gk-rpc-example/src/main/java/com/smgk/gkrpc/example/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +181,8 @@
       <workItem from="1645458628691" duration="2988000" />
       <workItem from="1645502161434" duration="15173000" />
       <workItem from="1645588499708" duration="18646000" />
+      <workItem from="1645629328302" duration="650000" />
+      <workItem from="1645710737920" duration="5000" />
     </task>
     <servers />
   </component>
